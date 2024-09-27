@@ -4,3 +4,7 @@
 * $ cd python_code
 * $ python3 -m pip install -r requirements.txt
 * $ python3 visualize_mesh.py
+
+## How to run the C++ code under 'c++_code'
+* $ cd c++_code
+* $ ./TriangleArea
